@@ -1,0 +1,23 @@
+{
+  "name": "@jonz94/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier configurations",
+  "keywords": [],
+  "homepage": "https://github.com/jonz94/prettier-config#readme",
+  "bugs": {
+    "url": "https://github.com/jonz94/prettier-config/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonz94/prettier-config.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "jonz94",
+    "email": "jody16888@gmail.com"
+  },
+  "main": "index.js",
+  "peerDependencies": {
+    "prettier": "^2.0.0"
+  }
+}
